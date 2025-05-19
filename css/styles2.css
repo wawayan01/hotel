@@ -1,0 +1,13 @@
+
+.titulo {
+position: relative;
+display: flex;
+width: 264px;
+height: 37px;
+flex-direction: column;
+flex-shrink: 0;
+color: #007bff;
+font-size: 36px;
+font-family: Hahmlet;
+font-weight: 700;
+}
