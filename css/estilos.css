@@ -329,6 +329,7 @@ header.abajo ul li a{
     display: flex;
     align-items: center;
     justify-content:center;
+    padding-top: 15px;
 }
 
 .beneficio2{
@@ -350,6 +351,7 @@ header.abajo ul li a{
     display: flex;
     align-items: center;
     justify-content:center;
+    padding-top: 15px;
 }
 
 .beneficio3{
@@ -371,6 +373,7 @@ header.abajo ul li a{
     display: flex;
     align-items: center;
     justify-content:center;
+    padding-top: 15px;
 }
 
 .beneficio4{
@@ -392,6 +395,7 @@ header.abajo ul li a{
     display: flex;
     align-items: center;
     justify-content:center;
+    padding-top: 15px;
 }
 
 .beneficio:hover{
