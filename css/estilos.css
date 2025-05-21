@@ -317,11 +317,18 @@ header.abajo ul li a{
     background-image: url("../img/1.jpg");
     background-size: cover;
     background-position: center;
-    color: #000000;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
     border-radius: 50%;
+}
+
+.bene1{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
 }
 
 .beneficio2{
@@ -331,11 +338,18 @@ header.abajo ul li a{
     background-image: url("../img/2.jpg");
     background-size: cover;
     background-position: center;
-    color: #2f00ff;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
+}
+
+.bene2{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
 }
 
 .beneficio3{
@@ -345,11 +359,18 @@ header.abajo ul li a{
     background-image: url("../img/3.jpg");
     background-size: cover;
     background-position: center;
-    color: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
+}
+
+.bene3{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
 }
 
 .beneficio4{
@@ -359,11 +380,18 @@ header.abajo ul li a{
     background-image: url("../img/4.jpg");
     background-size: cover;
     background-position: center;
-    color: #2f00ff;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
+}
+
+.bene4{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
 }
 
 .beneficio:hover{
