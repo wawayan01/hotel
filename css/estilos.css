@@ -28,6 +28,14 @@ body{
     padding: 60px 0;
 }
 
+.contenedor2{
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 60px 0;
+}
+
 .contenedor_b{
     width: 90%;
     max-width: 1100px;
@@ -154,7 +162,7 @@ header.abajo ul li a{
 /* Main */
 
 .seccion1{
-    background: #178e80;
+    background: #badeef;
 }
 
 .titulo-seccion{
@@ -163,6 +171,33 @@ header.abajo ul li a{
     font-weight: 700;
     color: #7c79a0;
     padding-bottom: 60px;
+}
+
+.titulo-seccion2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1d0cd8;
+    padding-bottom: 60px;
+    padding: 35px 0 0 0
+}
+
+.titulo-seccion4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-bottom: 60px;
+    padding: 35px 0 0 0
+}
+
+.titulo-seccion3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1d0cd8;
+    padding-bottom: 60px;
+    padding: 5px 0 25px 0
 }
 
 .contenedor-sobre-nosotros{
@@ -187,6 +222,7 @@ header.abajo ul li a{
 
 .ilustracion{
     width: 50%;
+    padding: 25px 0 25px 0;
 }
 
 .portafolio{
@@ -215,7 +251,7 @@ header.abajo ul li a{
 
 .table-pricing{
     display: flex;
-    height: 600px;
+    height: 1000px;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
@@ -225,13 +261,18 @@ header.abajo ul li a{
     width: 30%;
     text-align: center;
     background: #B497F4;
-    height: 500px;
+    height: 800px;
     border-radius: 10px;
     padding: 50px 10px;
     overflow: hidden;
-    color: #fff;
+    color: #000000;
 }
 
+.standar{
+    height: 200px;
+    width: 300px;
+
+}
 .active{
     background: #A7C2E9;
     transform: scale(1.1);
@@ -247,7 +288,15 @@ header.abajo ul li a{
 }
 
 .benefice{
-    font-size: 24px;
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    border-bottom: 1px dotted #fff;
+    padding-bottom: 5px;
+}
+
+.benefice1{
+    font-size: 18px;
     font-weight: 300;
     margin-bottom: 20px;
     border-bottom: 1px dotted #fff;
@@ -356,6 +405,40 @@ header.abajo ul li a{
 .cfooter .titulo-seccion{
     color: #fff;
     margin-top: 70px;
+}
+
+.dfooter{
+    width: 100%;
+    background:#fff;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.dfooter .titulo-seccion{
+    color: #2a05fd;
+    margin: 0 0 0 0;
+}
+
+.dfooter h4{
+    color: #000000;
+    margin: 0px;
+    text-align: justify;
+    padding: 0px 400px 15px 400px;
+}
+
+.dfooter h5{
+    color: #3503fc;
+    margin: 0px;
+    text-align: justify;
+    padding: 0px 900px 45px 400px;
+}
+
+.relatos p{
+    text-align: justify;
+    padding: 50px 0px 0px 0px;
+    font-size: 25px;
 }
 
 /*Footer*/
